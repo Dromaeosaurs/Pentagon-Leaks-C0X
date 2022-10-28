@@ -1,0 +1,15 @@
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/chakowanie
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/chakowanie.deps.json
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/chakowanie.runtimeconfig.json
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/chakowanie.dll
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/ref/chakowanie.dll
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/bin/Debug/net6.0/chakowanie.pdb
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.csproj.AssemblyReference.cache
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.GeneratedMSBuildEditorConfig.editorconfig
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.AssemblyInfoInputs.cache
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.AssemblyInfo.cs
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.csproj.CoreCompileInputs.cache
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.dll
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/ref/chakowanie.dll
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.pdb
+/home/pomocy/programy/vscode/C#/Inne/chakowanie/obj/Debug/net6.0/chakowanie.genruntimeconfig.cache

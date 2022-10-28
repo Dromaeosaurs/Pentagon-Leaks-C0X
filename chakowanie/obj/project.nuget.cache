@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0+55G/HCDi3kJPmnHo0+QICLbNSc2BOtASrfOgk0fvouwQo7HQUzltyPO+cNmdqAJAA9vzlByxxO7hNaF/sxQ==",
+  "success": true,
+  "projectFilePath": "/home/pomocy/programy/vscode/C#/Inne/chakowanie/chakowanie.csproj",
+  "expectedPackageFiles": [
+    "/home/pomocy/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
